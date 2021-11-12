@@ -1,0 +1,11 @@
+name = 
+workers_dev = true
+account_id = 
+type = "webpack"
+webpack_config = "webpack.config.js"
+
+
+[[kv_namespaces]]
+binding = 
+id = 
+preview_id = 
